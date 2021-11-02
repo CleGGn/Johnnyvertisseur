@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Johnnyverter</string>
+    <string name="devise_dep">STARTING CURRENCY</string>
+    <string name="devise_arr">ARRIVAL CURRENCY</string>
+    <string name="montant">AMOUNT</string>
+    <string name="convert">Convert</string>
+    <string name="exit">Exit</string>
+    <string name="converted">Conversion done</string>
+    <string name="exited">You are leaving the application </string>
+    <string name="convar">Convar</string>
+    <string name="res">THE RESULT IS :</string>
+    <string name="retour">Back</string>
+    <string name="err_request_code">"Request Code" unknown</string>
+    <string name="err_result_code">"Result Code" unknown</string>
+
+    <string name="errDevDep">Please fill the first field</string>
+    <string name="errDevArr">Please fill the second field</string>
+    <string name="errSameAm">Select different currencies</string>
+    <string name="errEmptyAm">Please fill the amount field</string>
+
+
+
+</resources>

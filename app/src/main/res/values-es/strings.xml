@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Johnnyvertidor</string>
+    <string name="devise_dep">MONEDA INICIAL</string>
+    <string name="devise_arr">MONEDA DE LLEGADA</string>
+    <string name="montant">CRECIENTE</string>
+    <string name="convert">Convertir</string>
+    <string name="exit">dejar</string>
+    <string name="converted">Conversión hecha</string>
+    <string name="exited">Sales de la aplicación</string>
+    <string name="convar">Convar</string>
+    <string name="res">EL RESULTADO ES :</string>
+    <string name="retour">Regreso</string>
+    <string name="err_request_code">"Request Code" desconocido</string>
+    <string name="err_result_code">"Result Code" desconocido</string>
+
+    <string name="errDevDep">Por favor complete el primer campo</string>
+    <string name="errDevArr">Por favor complete el segundo campo</string>
+    <string name="errSameAm">Elija diferentes monedas</string>
+    <string name="errEmptyAm">Por favor elija una cantidad</string>
+</resources>

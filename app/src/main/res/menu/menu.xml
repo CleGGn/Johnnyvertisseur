@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/convertir"
+      android:title="Convertir"/>
+<item android:id="@+id/paramètres"
+    android:title="Paramètres">
+    <menu android:id="@+id/sousmenu">
+        <item android:id="@+id/langue"
+            android:title="Changer la langue" />
+        <item android:id="@+id/date"
+            android:title="Changer la date"/>
+        <item android:id="@+id/affichage"
+            android:title="Changer l'affichage" />
+    </menu>
+</item>
+<item android:id="@+id/quitter"
+    android:title="Quitter"/>
+</menu>
+

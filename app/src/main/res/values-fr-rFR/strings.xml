@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Johnnyvertisseur</string>
+    <string name="devise_dep">DEVISE DE DEPART</string>
+    <string name="devise_arr">DEVISE D\'ARRIVEE</string>
+    <string name="montant">MONTANT</string>
+    <string name="convert">Convertir</string>
+    <string name="exit">Quitter</string>
+    <string name="converted">Conversion effectuée</string>
+    <string name="exited">Vous quittez l\'application</string>
+    <string name="convar">Convar</string>
+    <string name="res">LE RESULTAT EST :</string>
+    <string name="retour">Retour</string>
+    <string name="err_request_code">"Request Code" inconnu</string>
+    <string name="err_result_code">"Result Code" inconnu</string>
+
+    <string name="errDevDep">Veuillez remplir le premier champ</string>
+    <string name="errDevArr">Veuillez remplir le second champ</string>
+    <string name="errSameAm">Veuillez choisir deux devises différentes</string>
+    <string name="errEmptyAm">Veuillez choisir un montant</string>
+
+
+</resources>
